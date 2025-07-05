@@ -1,10 +1,10 @@
 # Hey there 👋 I'm Yeswanth Reddy
 
-🚀 Frontend Developer | MEAN Stack Enthusiast  
+🚀 Frontend Developer | MEAN&MERN Stack Enthusiast  
 📍 Based in Hyderabad, India
 
 ### 🛠️ Tech Stack
-- Angular • Node.js • Express • MongoDB  
+- Angular •React • Node.js • Express • MongoDB  
 - JavaScript • TypeScript • HTML/CSS
 
 ### 🧠 About Me
